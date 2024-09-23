@@ -10,3 +10,5 @@ https://cdn.jsdelivr.net/gh/ইউজারনেম/ফাইলনেম/ফ�
 সম্পূর্ণ কোড নিচে দেয়া হলো।
 
 https://cdn.jsdelivr.net/gh/Asikurbd/pagination/pagination.js
+
+<script src="https://cdn.jsdelivr.net/gh/Asikurbd/pagination/pagination.js"></script>
