@@ -11,3 +11,9 @@ span:hover{z-index:2;color:#23527c;background-color:#eee;border-color:#ddd}.pagi
 .pagination>.disabled>a:hover,.pagination>.disabled>span,.pagination>.disabled>span:focus,
 .pagination>.disabled>span:hover{color:#777;cursor:not-allowed;background-color:#fff;border-color:#ddd}
 .pagination-lg>li>a,.pagination-lg>li>span{padding:10px 12px;font-size:14px;}
+
+a{text-decoration:none;
+  color:#0381ab;
+  cursor:pointer}
+
+a:hover{color:red;}
