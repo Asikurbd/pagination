@@ -40,7 +40,7 @@ $(function () {
     var numberOfItems = $("#jar .content").length;
 
 
-    var limitPerPage = 6;
+    var limitPerPage = 4;
 
 
     // Total pages rounded upwards
